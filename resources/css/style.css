@@ -33,3 +33,8 @@ a {
 #copyright{
 text-align: right;
 }
+
+#camppic {
+    max-width: 100%;
+    height: auto;
+}
