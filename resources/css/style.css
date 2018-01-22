@@ -1,0 +1,35 @@
+body{
+  background-color: black;
+  text-align: center;
+  font-family: verdana
+}
+h1{
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+h2{
+font-weight: 500;
+font-size: 42px;
+color: white;
+}
+
+h3{
+  color: gray;
+  font-size: 21px;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+#downloadlink{
+  color: turquoise;
+  font-size: 16px;
+}
+
+#copyright{
+text-align: right;
+}
